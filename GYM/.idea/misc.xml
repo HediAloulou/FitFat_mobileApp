@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GYM/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/GYM/app/src/main/res/drawable/btn.xml" value="0.1895" />
+        <entry key="..\:/GYM/app/src/main/res/drawable/btn2.xml" value="0.1645" />
+        <entry key="..\:/GYM/app/src/main/res/drawable/btn3.xml" value="0.1635" />
+        <entry key="..\:/GYM/app/src/main/res/drawable/btn_border.xml" value="0.259" />
+        <entry key="..\:/GYM/app/src/main/res/drawable/btn_white_black.xml" value="0.2875" />
+        <entry key="..\:/GYM/app/src/main/res/drawable/edit_text_border.xml" value="0.259" />
+        <entry key="..\:/GYM/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.259" />
+        <entry key="..\:/GYM/app/src/main/res/drawable/ic_launcher_background.xml" value="0.193" />
+        <entry key="..\:/GYM/app/src/main/res/drawable/person_man.xml" value="0.259" />
+        <entry key="..\:/GYM/app/src/main/res/drawable/woman.xml" value="0.259" />
+        <entry key="..\:/GYM/app/src/main/res/layout/activity_advice.xml" value="0.36666666666666664" />
+        <entry key="..\:/GYM/app/src/main/res/layout/activity_chat.xml" value="0.35260416666666666" />
+        <entry key="..\:/GYM/app/src/main/res/layout/activity_fifthpage.xml" value="0.4" />
+        <entry key="..\:/GYM/app/src/main/res/layout/activity_fourthpage.xml" value="0.2" />
+        <entry key="..\:/GYM/app/src/main/res/layout/activity_height.xml" value="0.35260416666666666" />
+        <entry key="..\:/GYM/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/GYM/app/src/main/res/layout/activity_secondpage.xml" value="0.25416666666666665" />
+        <entry key="..\:/GYM/app/src/main/res/layout/activity_signin.xml" value="0.15416666666666667" />
+        <entry key="..\:/GYM/app/src/main/res/layout/activity_thirdpage.xml" value="0.25416666666666665" />
+        <entry key="..\:/GYM/app/src/main/res/layout/activity_weight.xml" value="0.35260416666666666" />
+        <entry key="..\:/GYM/app/src/main/res/layout/activity_welcome.xml" value="0.264" />
+        <entry key="..\:/GYM/app/src/main/res/layout/content_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/GYM/app/src/main/res/layout/fragment_first.xml" value="0.22826086956521738" />
+        <entry key="..\:/GYM/app/src/main/res/layout/fragment_second.xml" value="0.22826086956521738" />
+        <entry key="..\:/GYM/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.126" />
+        <entry key="..\:/ayman_proj/projet_socket/GYM/app/src/main/res/drawable/btn2.xml" value="0.2875" />
+        <entry key="..\:/ayman_proj/projet_socket/GYM/app/src/main/res/layout/activity_advice.xml" value="0.36666666666666664" />
+        <entry key="..\:/ayman_proj/projet_socket/GYM/app/src/main/res/layout/activity_client.xml" value="0.36666666666666664" />
+        <entry key="..\:/ayman_proj/projet_socket/GYM/app/src/main/res/layout/activity_fifthpage.xml" value="0.36666666666666664" />
+        <entry key="..\:/ayman_proj/projet_socket/GYM/app/src/main/res/layout/activity_fourthpage.xml" value="0.36666666666666664" />
+        <entry key="..\:/ayman_proj/projet_socket/GYM/app/src/main/res/layout/activity_height.xml" value="0.36666666666666664" />
+        <entry key="..\:/ayman_proj/projet_socket/GYM/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/ayman_proj/projet_socket/GYM/app/src/main/res/layout/activity_secondpage.xml" value="0.25416666666666665" />
+        <entry key="..\:/ayman_proj/projet_socket/GYM/app/src/main/res/layout/activity_signin.xml" value="0.25416666666666665" />
+        <entry key="..\:/ayman_proj/projet_socket/GYM/app/src/main/res/layout/activity_thirdpage.xml" value="0.36666666666666664" />
+        <entry key="..\:/ayman_proj/projet_socket/GYM/app/src/main/res/layout/activity_weight.xml" value="0.25416666666666665" />
+        <entry key="..\:/ayman_proj/projet_socket/GYM/app/src/main/res/layout/activity_welcome.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Advice"
+    android:orientation="vertical"
+    android:background="@drawable/dum2"
+    >
+    <TextView
+        android:id="@+id/Advice_today"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:gravity="center"
+        android:text="@string/Advice_of_Today"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="40sp"
+        android:textStyle="bold"
+
+        />
+    <TextView
+        android:id="@+id/title1"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:paddingLeft="20dp"
+        android:text="@string/Hydrate"
+        android:drawableRight="@drawable/btn"
+        android:paddingStart="40dp"
+        android:paddingTop="8dp"
+        android:paddingEnd="180dp"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:textStyle="bold"
+
+        />
+    <TextView
+        android:id="@+id/para1"
+        android:layout_width="330dp"
+        android:layout_height="150dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingTop="22dp"
+        android:layout_marginLeft="20dp"
+        android:text="@string/para1"
+
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:background="@drawable/btn_white_black"
+        />
+
+    <TextView
+        android:id="@+id/title2"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:drawableRight="@drawable/btn"
+        android:paddingStart="60dp"
+        android:paddingLeft="60dp"
+        android:paddingTop="8dp"
+        android:paddingEnd="180dp"
+        android:text="@string/carbs"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:textStyle="bold"
+
+        />
+
+    <TextView
+        android:id="@+id/para2"
+        android:layout_width="330dp"
+        android:layout_height="130dp"
+        android:paddingLeft="20dp"
+        android:paddingTop="26dp"
+        android:layout_marginLeft="50dp"
+        android:text="@string/para2"
+
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:background="@drawable/btn_white_black"
+        />
+    <TextView
+        android:id="@+id/title3"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:drawableRight="@drawable/btn"
+        android:paddingStart="80dp"
+        android:paddingLeft="60dp"
+        android:paddingTop="8dp"
+        android:paddingEnd="180dp"
+        android:text="@string/healthy"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:textStyle="bold"
+
+        />
+
+    <TextView
+        android:id="@+id/para3"
+        android:layout_width="330dp"
+        android:layout_height="130dp"
+        android:paddingLeft="20dp"
+        android:paddingTop="26dp"
+        android:layout_marginLeft="70dp"
+        android:text="@string/para3"
+
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:background="@drawable/btn_white_black"
+        />
+</LinearLayout>

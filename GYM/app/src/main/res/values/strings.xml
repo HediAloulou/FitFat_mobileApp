@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">GYM</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="text_third">Custom Workouts</string>
+    <string name="text_second_line_page3">Create and save your own custom workouts. Name your workouts, save them, and they’ll automatically appear when you’re ready to workout</string>
+    <string name="text_sign">Sign in</string>
+    <string name="Woman">Woman</string>
+    <string name="man">Man</string>
+    <string name="WelcomeAgain">Welcome again !</string>
+    <string name="advice">Advice of Today</string>
+    <string name="Advice_of_Today">Advice of Today</string>
+    <string name="Hydrate">Hydrate yourself</string>
+    <string name="carbs">Take a short nap</string>
+    <string name="healthy">Eat healthy food</string>
+    <string name="para1">-Drink a glass of water before each meal.\n-Invest in a fun or fancy water bottle.\n-Check the color of your urine.</string>
+    <string name="para2">-Improve your mood.\n-Reduce your fatigue.\n-Be relaxed.</string>
+    <string name="para3">-Strengthens your bones.\n-Boosts your immunity.\n-Supports your muscles.</string>
+    <string name="chat">Chat Time</string>
+    <string name="next_gender">Next</string>
+    <string name="text_sign_up">Sign up</string>
+    <string name="chooseweight">Choose your weight</string>
+    <string name="chooseheight">Choose your height</string>
+    <string name="text_second">Workout Categories</string>
+    <string name="first_page_title">Welcome to FitFat</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="second_line_first">The first fitness App Improve your fitness, practice mindfulness, or prepare for new adventures with a series of specially designed workouts and meditations.</string>
+    <string name="text_second_line_page2">Workout categories will help you gain strength, get in better shape and embrace a healthy lifestyle</string>
+    <string name="chooseGender">Choose your gender</string>
+</resources>

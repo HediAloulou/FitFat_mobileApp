@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Fifthpage">
+
+    <TextView
+        android:id="@+id/choose_gender"
+        android:layout_width="match_parent"
+        android:layout_height="267dp"
+        android:gravity="center"
+        android:text="@string/chooseGender"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/woman"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/btn_border"
+        android:drawableLeft="@drawable/woman_png"
+        android:text="@string/Woman"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:paddingStart="70dp"
+        android:paddingEnd="50dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        />
+
+    <Button
+        android:id="@+id/man"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/btn_border"
+        android:drawableLeft="@drawable/person_man"
+        android:text="@string/man"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:paddingStart="72dp"
+        android:paddingEnd="40dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        />
+
+    <Button
+        android:id="@+id/next_gender"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/btn3"
+        android:text="@string/next_gender"
+        android:textColor="@color/white"
+        android:drawableRight="@drawable/arrow"
+        android:paddingStart="30dp"
+        android:paddingEnd="20dp"
+        android:textSize="20sp"
+        />
+
+</LinearLayout>

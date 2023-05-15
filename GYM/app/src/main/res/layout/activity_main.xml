@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fir"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_marginTop="400dp"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:background="@drawable/rectangle_akhal"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/text_first_page"
+            android:layout_width="match_parent"
+
+            android:layout_height="100dp"
+            android:gravity="center"
+
+            android:text="@string/first_page_title"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="40sp"
+
+            android:textStyle="bold">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/text_second_line"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:gravity="center"
+            android:text="@string/second_line_first"
+            android:textAlignment="center"
+
+            android:textColor="@color/white"
+            android:textSize="14sp">
+
+        </TextView>
+        <Button
+            android:id="@+id/button_getStarted"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/btn"
+            android:text="Get started" />
+        <Button
+            android:id="@+id/signin_text"
+            android:layout_width="350dp"
+            android:textColor="@color/white"
+            android:layout_height="20dp"
+            android:layout_gravity="center"
+            android:background="@drawable/btn2"
+            android:text="You already have account ? Sign in  "
+
+            android:layout_marginTop="20dp"
+            tools:ignore="HardcodedText" />
+
+    </LinearLayout>
+</LinearLayout>
